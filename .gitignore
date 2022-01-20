@@ -1,0 +1,5 @@
+#Ignorando el paquete de modulos
+node_modules
+
+# Las tablas generadas en las pruebas
+tabla_*.txt
